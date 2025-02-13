@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weirdmedievalguy
 - 👀 I’m interested in medieval art and cycling
 - 🌱 I’m currently learning how to play honest chess
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Not a programmer
 - 📫 How to reach me: here
 
 <!---
